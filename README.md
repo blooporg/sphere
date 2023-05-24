@@ -4,11 +4,11 @@ Sphere is a state-of-the-art platform that leverages the combined power of OpenA
 
 ## **How to Use**
 
-Upload Your Documents: Once you have created an account, click on the "Upload" button to upload your custom knowledgebase files. Sphere.Bloop.GG accepts a wide range of file formats including .txt, .pdf, .docx, etc.
+**Upload Your Documents:** Once you have created an account, click on the "Upload" button to upload your custom knowledgebase files. Sphere.Bloop.GG accepts a wide range of file formats including .txt, .pdf, .docx, etc.
 
-Ask Questions: After your files have been uploaded and processed, you can begin asking questions about the content. Simply type your question into the search bar, and Sphere.Bloop.GG will leverage the power of GPT-4 and Pinecone's Vector Database to provide the most relevant answer.
+**Ask Questions:** After your files have been uploaded and processed, you can begin asking questions about the content. Simply type your question into the search bar, and Sphere.Bloop.GG will leverage the power of GPT-4 and Pinecone's Vector Database to provide the most relevant answer.
 
-Analyze Your Results: Sphere.Bloop.GG doesn't just answer your questions - it also provides you with detailed analysis about the answer, giving you valuable insights about your document.
+**Analyze Your Results:** Sphere doesn't just answer your questions - it also provides you with detailed analysis about the answer, giving you valuable insights about your document.
 
 ## **Features**
 
