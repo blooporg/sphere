@@ -1,6 +1,6 @@
 # **Sphere**
 
-Sphere is a state-of-the-art platform that leverages the combined power of OpenAI's GPT-4 and Pinecone's Vector Database to facilitate easy and powerful knowledge extraction. Users can upload their custom knowledgebase files and ask questions about the contents, enabling them to effortlessly derive insights from an array of human-readable documents such as books, letters, and more.
+Sphere is an easy-to-use tool that allows you to find information from your own files and documents. Think of it as a personal search engine for your documents. You simply upload any text document like books or letters to Sphere, and then you can ask it any question about your document's content. Using advanced technology from OpenAI and Pinecone, it can understand your question and find the best answer from your documents. It's a handy way to explore and learn from your own collection of documents.
 
 ## **How to Use**
 
