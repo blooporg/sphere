@@ -26,7 +26,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 ## **License**
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the  BSD-3-Clause License. See LICENSE for more information.
 
 ## **Contact**
 
